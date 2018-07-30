@@ -8,7 +8,7 @@ require_once('./Abstract.Redirect.Class.php');
  * @var array $config config variables
  * @var resource $ch cURL session  
  */
-class RedirectPOST /*extends Redirect*/ {
+class RedirectPOST {
 
     /**
      * Define vars
